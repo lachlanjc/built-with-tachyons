@@ -11,7 +11,7 @@ const Showcase = () => (
         title={site.title}
         url={site.url}
         description={site.description}
-        img={`/img/${site.img}`}
+        img={`/built-with-tachyons/img/${site.img}`}
         key={`site-${i}`}
       />
     ))}
