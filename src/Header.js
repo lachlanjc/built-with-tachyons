@@ -11,7 +11,7 @@ const Header = () => (
     </h2>
     <a
       className='ba b--black-70 black-90 link br2 dim fw4 dib pv2 ph3 mt3'
-      href='https://github.com/lachlanjc/built-with-tachyons'
+      href='https://github.com/tachyons-css/built-with-tachyons#add-a-website'
       children='Add a link'
     />
   </header>
