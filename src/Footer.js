@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Footer = () => (
-  <footer className='bg-washed-blue bt b--black-10 pv4 tc'>
+  <footer className='bt b--black-10 pv4 tc' style={{ backgroundColor: '#f1f9fb' }}>
     <p className='mv0 gray i'>
       Built by
       <a
