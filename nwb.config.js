@@ -1,6 +1,6 @@
 module.exports = {
   type: 'react-app',
   webpack: {
-    publicPath: 'http://tachyons.io/built-with-tachyons/'
+    publicPath: 'https://lachlanjc.me/built-with-tachyons/'
   }
 }
