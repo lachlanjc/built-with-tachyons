@@ -21,7 +21,7 @@ module.exports = {
     {
         "title": "NRA Funded",
         "url": "https://nrafunded.us",
-        "description": "Who's getting funded by the NRA?",
+        "description": "See if the NRA is funding your Congress members.",
         "img": "Screenshot-nrafunded.us-2016-08-28-11-48-29.png"
     },
     {
